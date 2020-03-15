@@ -1,0 +1,2 @@
+use mydb
+db.login.insert({"username" : "dfsdf","pw":"ff"})
