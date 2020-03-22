@@ -1,0 +1,2 @@
+include ':app', ':qqcos2'
+rootProject.name='qqcos'

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mySysTemServer.iml" filepath="$PROJECT_DIR$/.idea/mySysTemServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqcos.iml" filepath="$PROJECT_DIR$/qqcos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqcos2/qqcos2.iml" filepath="$PROJECT_DIR$/qqcos2/qqcos2.iml" />
     </modules>
   </component>
 </project>
